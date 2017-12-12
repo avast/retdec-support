@@ -1,0 +1,13 @@
+# RetDec Support
+
+Support packages for the [RetDec](https://github.com/avast-tl/retdec) decompiler.
+
+Packages contain the following information:
+* Mapping of ordinal numbers to names for functions from selected Windows DLLs.
+* Database of data types for functions from selected standard header files.
+* YARA rules for statically linked code detection for functions from selected standard libraries.
+* YARA rules for standard cryptographic constants.
+
+## Use
+
+A suitable package from this repository is automatically downloaded during the RetDec installation step.
