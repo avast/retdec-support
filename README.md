@@ -8,6 +8,11 @@ Packages contain the following information:
 * YARA rules for statically linked code detection for functions from selected standard libraries.
 * YARA rules for standard cryptographic constants.
 
+Packages get created like this:
+```
+XZ_DEFAULTS="-T 8" XZ_OPT=-9 tar cvJf retdec-support_2018-02-08.tar.xz *
+```
+
 ## Use
 
 A suitable package from this repository is automatically downloaded during the RetDec installation step.
