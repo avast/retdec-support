@@ -11,3 +11,7 @@ Packages contain the following information:
 ## Use
 
 A suitable package from this repository is automatically downloaded during the RetDec installation step.
+
+## License
+
+Copyright (c) 2017 Avast Software, licensed under the MIT license. See the [`LICENSE`](https://github.com/avast-tl/retdec-support/blob/master/LICENSE) file for more details.
