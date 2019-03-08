@@ -10,7 +10,7 @@ The packages contain the following data:
 
 The packages are created as follows:
 ```
-XZ_DEFAULTS="-T 8" XZ_OPT=-9 tar cvJf retdec-support_2018-02-08.tar.xz *
+XZ_DEFAULTS="-T 8" XZ_OPT=-9 tar cvJf retdec-support_YYYY-MM-DD.tar.xz *
 ```
 
 ## Use
