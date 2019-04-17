@@ -1,6 +1,6 @@
 # RetDec Support
 
-Support packages for the [RetDec](https://github.com/avast-tl/retdec) decompiler.
+Support packages for the [RetDec](https://github.com/avast/retdec) decompiler.
 
 The packages contain the following data:
 * A mapping of ordinal numbers to names for functions from selected Windows DLLs.
@@ -19,4 +19,4 @@ A suitable package from this repository is automatically downloaded during the i
 
 ## License
 
-Copyright (c) 2017 Avast Software, licensed under the MIT license. See the [`LICENSE`](https://github.com/avast-tl/retdec-support/blob/master/LICENSE) file for more details.
+Copyright (c) 2017 Avast Software, licensed under the MIT license. See the [`LICENSE`](https://github.com/avast/retdec-support/blob/master/LICENSE) file for more details.
